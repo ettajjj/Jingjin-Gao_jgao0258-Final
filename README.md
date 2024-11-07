@@ -16,7 +16,7 @@ This project uses the p5.js library, combined with course content and additional
 
 ---
 
-## Animation Driving Mechanism and Differentiation
+### Animation Driving Mechanism and Differentiation
 
 In my design, I selected a **Time-Based** approach as the primary method to drive animations, using time to control both the tree growth and raindrop movement to complete the final project. The time factor allows the tree growth animation to expand smoothly, while the raindrops fall at a fixed speed, creating the visual effect of continuous rainfall.
 
