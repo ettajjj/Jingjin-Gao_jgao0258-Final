@@ -38,15 +38,6 @@ The project is inspired by the natural beauty of tree growth and rainfall, combi
 
 ---
 
-### Code Explanation
-
-1. **Growth Animation**: Within the `startGrowth` function, the `shrinkFactor` gradually increases, creating a smooth transition from a smaller to a full-size tree structure.
-2. **Raindrop Animation**: Raindrops are generated periodically, with their downward movement controlled by the `move` function. Raindrops disappear when they leave the canvas to maintain visual clarity.
-3. **Adjustable Scale Factor**: The `scaleFactor` dynamically adjusts to window size, ensuring the canvas and graphics display proportionately on any screen.
-4. **Overall Scaling of the Apple Tree**: Offset values (`offsetX` and `offsetY`) ensure the tree remains centered on the canvas at all times.
-
----
-
 ## Additional Tools and Methods
 
 This project utilizes the p5.js library and content provided in class. Additionally, to enhance the project and improve its visual quality, I referenced external video tutorials. These tutorials covered topics such as overall tree scaling, raindrop creation, and animation techniques, allowing me to expand and refine the project’s features.
