@@ -18,7 +18,7 @@ This project uses the p5.js library, combined with course content and additional
 
 ### Animation Mechanics
 
-The animations are driven by time-based changes. Both the tree growth animation and raindrop movement rely on timed controls; the growth animation has a smooth expansion effect, while the raindrops fall at a fixed speed, simulating continuous rainfall.
+In my design, I chose a Time-Based approach as the primary method for driving animations, using time to control both the tree growth and raindrop movement to achieve the final effect. The time-based factor enables the tree growth animation to have a smooth, gradual expansion, while the raindrops fall at a constant speed, creating a visual effect of continuous rainfall.
 
 ---
 
