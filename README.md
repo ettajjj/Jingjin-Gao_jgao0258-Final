@@ -47,6 +47,12 @@ The project is inspired by the natural beauty of tree growth and rainfall, combi
 
 ---
 
+## Additional Tools and Methods
+
+This project utilizes the p5.js library and content provided in class. Additionally, to enhance the project and improve its visual quality, I referenced external video tutorials. These tutorials covered topics such as overall tree scaling, raindrop creation, and animation techniques, allowing me to expand and refine the project’s features.
+
+--- 
+
 ### Resources
 
 - [Growth Animation Tutorial](https://youtu.be/lMJmtlp6Yus)
