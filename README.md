@@ -16,9 +16,11 @@ This project uses the p5.js library, combined with course content and additional
 
 ---
 
-### Animation Mechanics
+## Animation Driving Mechanism and Differentiation
 
-In my design, I chose a Time-Based approach as the primary method for driving animations, using time to control both the tree growth and raindrop movement to achieve the final effect. The time-based factor enables the tree growth animation to have a smooth, gradual expansion, while the raindrops fall at a constant speed, creating a visual effect of continuous rainfall.
+In my design, I selected a **Time-Based** approach as the primary method to drive animations, using time to control both the tree growth and raindrop movement to complete the final project. The time factor allows the tree growth animation to expand smoothly, while the raindrops fall at a fixed speed, creating the visual effect of continuous rainfall.
+
+In my project, I focused on adjusting the **scale** of animations rather than changing colors, setting my work apart from my teammates’ projects. The gradual growth animation of the tree structure simulates a natural expansion process, offering users an immersive experience. Additionally, I incorporated dynamic raindrop effects to create the vivid impression of standing under a tree in the rain, adding depth to the animation.
 
 ---
 
