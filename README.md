@@ -6,6 +6,7 @@
 
 This project uses the p5.js library, combined with course content and additional resources, to create animations of an apple tree growing and a rain effect. Users can control the animations with interactive buttons, and the responsive canvas feature ensures a flexible and immersive experience.
 
+--- 
 
 ### Interaction Guide
 
@@ -52,15 +53,5 @@ The project is inspired by the natural beauty of tree growth and rainfall, combi
 - [Rain Effect Tutorial](https://www.youtube.com/watch?v=KkyIDI6rQJI)
 - [setInterval Function Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
 
----
 
-### User Guide
 
-1. Open and run the project.
-2. Click the “Start Growth” button to observe the tree growth animation.
-3. Use the “Start Rain” and “Pause Rain” buttons to control the rain effect.
-4. Adjust the window size to observe the responsive scaling of the canvas and content.
-
---- 
-
-This README provides detailed instructions, technical specifications, and resources, allowing users to understand and effectively use the project.
