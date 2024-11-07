@@ -6,7 +6,6 @@
 
 This project uses the p5.js library, combined with course content and additional resources, to create animations of an apple tree growing and a rain effect. Users can control the animations with interactive buttons, and the responsive canvas feature ensures a flexible and immersive experience.
 
----
 
 ### Interaction Guide
 
